@@ -1,2 +1,2 @@
 # Mandelbrot
-### andelbrot set visulaisation
+### mandelbrot set visulaisation
